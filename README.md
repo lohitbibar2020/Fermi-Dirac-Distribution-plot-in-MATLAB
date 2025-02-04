@@ -23,8 +23,8 @@ Where:
 ## Installation & Usage
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/Fermi-Dirac-Distribution.git
-cd Fermi-Dirac-Distribution
+git clone https://github.com/lohitbibar2020/Fermi-Dirac-Distribution-plot-in-MATLAB.git
+cd Fermi-Dirac-Distribution-plot-in-MATLAB
 ```
 
 ### Run the MATLAB Script
