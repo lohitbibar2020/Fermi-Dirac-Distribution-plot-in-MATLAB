@@ -18,7 +18,7 @@ Where:
 - \( T \) = Temperature in Kelvin
 
 ## Requirements
-- **MATLAB** (Any version supporting basic plotting functions)
+- **MATLAB, C Language** (Any version supporting basic plotting functions)
 
 ## Installation & Usage
 ### Clone the Repository
