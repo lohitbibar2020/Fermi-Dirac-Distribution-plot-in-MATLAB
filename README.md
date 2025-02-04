@@ -1,4 +1,3 @@
-# Fermi-Dirac-Distribution-plot-in-MATLAB
 # Fermi-Dirac Distribution Plot (MATLAB Mini Project)
 
 ## Description
